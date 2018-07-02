@@ -17,6 +17,6 @@ licence  : GPL 2 - MIT
 Install :
 http://monsite/myAdmin/index.php?A&Marketing\RecovertCart
 
-Marketplace link : https://www.clicshopping.net/forum/files/file/11-apps-recover-cart/
+Marketplace link : https://www.clicshopping.org/forum/files/file/11-apps-recover-cart/
 
 ![recovercart](https://github.com/ClicShoppingOfficialModulesV3/apps_marketing_recover_cart/blob/master/ModuleInfosJson/recover.png)
